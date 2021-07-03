@@ -1,0 +1,7 @@
+[workspace]
+
+members = [
+    "koakuma-common",
+    "koakuma-index",
+    "koakuma-api",
+]
